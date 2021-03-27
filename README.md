@@ -14,3 +14,6 @@ npm start
 
 # Build for production
 npm run build
+
+# Bdeploy the code
+npm run deploy
