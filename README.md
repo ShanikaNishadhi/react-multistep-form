@@ -2,7 +2,7 @@
 # A Multi-step form using React
 
 ### Clone the repo locally
-git clone https://github.com/pramithap/react-multi-step-form.git  
+git clone https://github.com/ShanikaNishadhi/react-multistep-form.git  
 
 ```bash
 

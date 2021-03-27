@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
+  "homepage": "http://ShanikaNishadhi.github.io/react-multistep-form",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "prop-types": "15.7.2",
