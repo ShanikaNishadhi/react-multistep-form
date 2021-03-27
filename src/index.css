@@ -1,0 +1,93 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  box-sizing: content-box;
+  font-size: 1rem;
+  text-align: center
+}
+
+.next {
+  margin-left: 100px;
+  white-space: nowrap;
+  margin:0px auto;
+  float:right;
+  margin-right: 100px;
+}
+
+.back {
+  margin-left: 0px;
+  float:left;
+  white-space: nowrap;
+  margin:0px auto;
+  margin-left: 100px;
+}
+
+.formLayout{
+  width:50%;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin:auto;
+}
+
+.layout {
+  width:70%;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.steps {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.step-num {
+  width: 24px;
+  height: 24px;
+  border-radius: 100px;
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.7;
+  display: inline-block;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.active {
+  background-color :#0099cc;
+}
+
+.inactive {
+  background-color :#848686;
+} 
+
+.step-name {
+  margin-left: 110px;
+  margin-right: 110px;
+}
+
+label.active {
+  cursor: auto;
+  color: #047a9c;
+  font-weight: bold;
+}
+
+label {
+  text-align:left;
+}
+
+input,
+select {
+  text-align: left;
+  padding: 0.3rem 0.4rem;
+  margin: 0.5rem 0 0.5rem 0.8rem;
+  border: 1px solid #a4a4a4;
+  width: 30%;
+  display: inline-block;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color :#0099cc;
+  margin: 0.5rem 0;
+}
